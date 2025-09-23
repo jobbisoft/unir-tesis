@@ -23,7 +23,11 @@ Creación y Preparación de un Marco de Trabajo para PYMES en Análisis de Datos
 <b>Trabajo fin de estudio presentado por:</b>
 
 Andrea Jasmín Martínez López
+
 Josué Alexander Rivas Fabián
+
 José Miguel Meza Reyes
+
 Marco Antonio Calderón Yáñez
+
 Osvaldo Ramírez
