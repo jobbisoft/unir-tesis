@@ -32,7 +32,7 @@ Marco Antonio Calderón Yáñez
 
 Osvaldo Ramírez
 
-<b><Informacion></b>
+<b>Informacion:</b>
 
 dataset.csv  => fuente de datos
 etl.jupyter  => Proyecto en jupyter-notebook para aplicar ETL sobre la fuente de datos
