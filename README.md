@@ -31,3 +31,11 @@ José Miguel Meza Reyes
 Marco Antonio Calderón Yáñez
 
 Osvaldo Ramírez
+
+<b><Informacion></b>
+
+dataset.csv  => fuente de datos
+etl.jupyter  => Proyecto en jupyter-notebook para aplicar ETL sobre la fuente de datos
+modelos.py    => scripts en python para correr diferentes modelos estadisticos sobre la fuente de datos.
+dashboard.pbix  => Dashboard del la tesis
+video.jpg  => Defensa de la tesis
