@@ -42,5 +42,7 @@ modelos.py    => scripts en python para correr diferentes modelos estadisticos s
 
 dashboard.pbix  => Dashboard del la tesis
 
-video.jpg  => Defensa de la tesis
+tesis.pdf  => Documento de la tesis en formato PDF.
+
+video.avi => Defensa de la tesis
 
