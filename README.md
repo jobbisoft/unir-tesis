@@ -34,16 +34,13 @@ Osvaldo Ramírez
 
 <b>Informacion:</b>
 
-dataset.csv  => fuente de datos
-
 etl.jupyter  => Proyecto en jupyter-notebook para aplicar ETL sobre la fuente de datos
 
 modelos.py    => scripts en python para correr diferentes modelos estadisticos sobre la fuente de datos.
 
 dashboard.pbix  => Dashboard del la tesis
-Presentacion Dashboard.pptx  => Presentacion den Power Point
 
-tesis.pdf  => Documento de la tesis en formato PDF.
+Presentacion Dashboard.pptx  => Presentacion den Power Point
 
 video.avi => https://tiracaja.com/s/7w2ZHip94tGEnqa
 
