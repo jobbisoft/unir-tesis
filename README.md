@@ -41,6 +41,7 @@ etl.jupyter  => Proyecto en jupyter-notebook para aplicar ETL sobre la fuente de
 modelos.py    => scripts en python para correr diferentes modelos estadisticos sobre la fuente de datos.
 
 dashboard.pbix  => Dashboard del la tesis
+Presentacion Dashboard.pptx  => Presentacion den Power Point
 
 tesis.pdf  => Documento de la tesis en formato PDF.
 
