@@ -36,7 +36,7 @@ Osvaldo Ramírez
 
 etl.jupyter  => Proyecto en jupyter-notebook para aplicar ETL sobre la fuente de datos
 
-modelos.py    => scripts en python para correr diferentes modelos estadisticos sobre la fuente de datos.
+Tecnicas_DivisionDeDatos_evaluacion.ipynb    => scripts en python para correr diferentes modelos estadisticos sobre la fuente de datos.
 
 dashboard.pbix  => Dashboard del la tesis
 
