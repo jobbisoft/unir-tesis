@@ -48,5 +48,5 @@ video.avi => https://tiracaja.com/s/7w2ZHip94tGEnqa
 
 Para poder ver el dashbard, solo se requiere el archivo dashboard.pbix.
 
-Los archivos modelos.py y etl.jupyter son codigos que se usaron para transformar y procesar el archivo dataset.csv
+Los archivos Tecnicas_DivisionDeDatos_evaluacion.ipynb y etl.jupyter son codigos que se usaron para transformar y procesar el archivo dataset.csv
 
