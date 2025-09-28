@@ -45,7 +45,7 @@ Presentacion Dashboard.pptx  => Presentacion den Power Point
 
 tesis.pdf  => Documento de la tesis en formato PDF.
 
-video.avi => Defensa de la tesis
+video.avi => https://tiracaja.com/s/7w2ZHip94tGEnqa
 
 <b>Notas</b>
 
