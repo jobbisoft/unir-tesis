@@ -48,7 +48,5 @@ video.avi => https://tiracaja.com/s/7w2ZHip94tGEnqa
 
 Para poder ver el dashbard, solo se requiere el archivo dashboard.pbix.
 
-El dataset.csv son los datos ya transformados, los cuales fueron la fuente para el dashboard.pbix
-
 Los archivos modelos.py y etl.jupyter son codigos que se usaron para transformar y procesar el archivo dataset.csv
 
