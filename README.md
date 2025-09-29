@@ -1,36 +1,25 @@
 # unir-tesis
 
-<b>Universidad</b>
+<b>Universidad</b>: <i>Universidad Internacional de La Rioja<i>
 
-Universidad Internacional de La Rioja
+<b>Maestria</b>: Maestría en Análisis y Visualización de Datos Masivos 
 
-<b>Maestria</b>
+<b>Materia</b>: Seminario de Innovación en Análisis y Visualización de Datos
 
-Maestría en Análisis y Visualización de Datos Masivos 
+<b>Profesor</b>: Barbaro Jorge Ferrero Castro
 
-<b>Materia</b>
-
-Seminario de Innovación en Análisis y Visualización de Datos
-
-<b>Profesor</b>
-
-Barbaro Jorge Ferrero Castro
-
-<b>Tesis</b>
-
-Creación y Preparación de un Marco de Trabajo para PYMES en Análisis de Datos
+<b>Tesis</b>: Creación y Preparación de un Marco de Trabajo para PYMES en Análisis de Datos
 
 <b>Trabajo fin de estudio presentado por:</b>
-
-Andrea Jasmín Martínez López
-Josué Alexander Rivas Fabián
-José Miguel Meza Reyes
-Marco Antonio Calderón Yáñez
+Andrea Jasmín Martínez López,
+Josué Alexander Rivas Fabián,
+José Miguel Meza Reyes,
+Marco Antonio Calderón Yáñez,
 Osvaldo Ramírez
 
 <b>Indice:</b>
 
-etl.jupyter  => Proyecto en jupyter-notebook para aplicar ETL sobre la fuente de datos
+etl.ipynb  => Proyecto en jupyter-notebook para aplicar ETL sobre la fuente de datos
 
 Tecnicas_DivisionDeDatos_evaluacion.ipynb    => scripts en python para correr diferentes modelos estadisticos sobre la fuente de datos.
 
