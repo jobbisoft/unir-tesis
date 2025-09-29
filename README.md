@@ -27,11 +27,12 @@ dashboard.pbix  => Dashboard del la tesis
 
 Presentacion Dashboard.pptx  => Presentacion den Power Point
 
-video.avi => https://tiracaja.com/s/7w2ZHip94tGEnqa
+video => https://tiracaja.com/s/7w2ZHip94tGEnqa
+
+documento.pdf => Documento final de investigacion
 
 <b>Notas</b>
 
-Para poder ver el dashbard, solo se requiere el archivo dashboard.pbix.
+Para poder ver el dashboard, solo se requiere el archivo dashboard.pbix.
 
-Los archivos Tecnicas_DivisionDeDatos_evaluacion.ipynb y etl.jupyter son codigos que se usaron para transformar y procesar el archivo dataset.csv
-
+Los archivos Tecnicas_DivisionDeDatos_evaluacion.ipynb y etl.ipynb son codigos que se usaron para transformar y procesar el archivo .csv
