@@ -25,7 +25,7 @@ Tecnicas_DivisionDeDatos_evaluacion.ipynb    => scripts en python para correr di
 
 dashboard.pbix  => Dashboard del la tesis
 
-Presentacion Dashboard.pptx  => Presentacion den Power Point
+Presentacion Dashboard.pptx  => Presentacion en Power Point que usamos para el video
 
 video => https://tiracaja.com/s/7w2ZHip94tGEnqa
 
