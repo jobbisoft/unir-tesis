@@ -29,7 +29,7 @@ Presentacion Dashboard.pptx  => Presentacion den Power Point
 
 video => https://tiracaja.com/s/7w2ZHip94tGEnqa
 
-documento.pdf => Documento final de investigacion
+EngregaFinal Equipo 01C.pdf => Documento final de investigacion
 
 <b>Notas</b>
 
